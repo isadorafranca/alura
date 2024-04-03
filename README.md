@@ -1,9 +1,10 @@
 # Alura
 Acompanhamento do Workshop de Imersão em Python
 
-**Análise de dados de Mercado Financeiro com Google Sheets e Python**
+#Análise de dados de Mercado Financeiro com Google Sheets e Python
 
 **Introdução**
+
 Este repositório contém um estudo abrangente sobre análise de dados no mercado de ações, explorando três áreas-chave:
 
 Análise de dados de uma base de dados de movimentação diária.
@@ -45,6 +46,7 @@ Utilização da biblioteca Prophet, desenvolvida pelo Facebook, para previsão d
 A utilização do Prophet mostrou-se eficaz na previsão de séries temporais, proporcionando insights valiosos para entender e antecipar tendências no mercado financeiro.
 
 **Conclusão**
+
 Este estudo demonstra a aplicação de diversas ferramentas e técnicas para análise de dados no mercado de ações. A combinação de plataformas como Google Sheets e Google Colab, juntamente com bibliotecas de análise de dados em Python, oferece uma ampla gama de possibilidades para análise e interpretação de dados financeiros. Os resultados obtidos fornecem insights valiosos para investidores e profissionais do mercado financeiro.
 
 Referências
